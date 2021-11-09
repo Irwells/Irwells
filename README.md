@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Irwells
-- 👀 I’m interested in ...Microsost Office365, Check Point
+- 👀 I’m interested in ...Microsoft Office365, Check Point
 - 🌱 I’m currently learning ...Check Point
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
